@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\Rodrigo\Desktop\laboratorio-06-disaavedra\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
